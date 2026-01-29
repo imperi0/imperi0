@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Sanjai 👋
+CS undergraduate | React | Learning by building real projects
 
-<!--
-**imperi0/imperi0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently working on
+- Minimal Unix Shell (C++, Linux)
+- Movie Search App (React)
+- Time Capsule (in progress)
 
-Here are some ideas to get you started:
+<!-- GRAPH 1 -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- GRAPH 2 -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
