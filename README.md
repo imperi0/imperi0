@@ -6,4 +6,4 @@ CS undergraduate | React | Learning by building real projects
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=imperi0&theme=dracula)
 
 ### Skill Distribution
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imperi0&layout=donut&theme=radical)
+![Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=imperi0&layout=donut-vertical&theme=neon)
