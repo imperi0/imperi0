@@ -1,13 +1,12 @@
 ## Hi, I'm Sanjai 👋
 CS undergraduate | React | Learning by building real projects
+# 🚀 SYSTEM METRICS
 
-### Currently working on
-- Minimal Unix Shell (C++, Linux)
-- Movie Search App (React)
-- Time Capsule (in progress)
+### 📈 Activity Pulse
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
 
-<!-- GRAPH 1 -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+### 📊 Skill Distribution
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut-vertical&theme=neon)
 
-<!-- GRAPH 2 -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+### 🏆 Achievements
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
