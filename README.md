@@ -1,38 +1,28 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Initializing+Kernel...;Hi+Iam+Sanjai...;Welcome+to+the+Void." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70a5fd&center=true&vCenter=true&width=435&lines=Hi,+I'm+Sanjai.;CCE+Undergrad+@+MIT+Manipal.;Exploring+Systems..." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <strong>CS undergraduate</strong>
+  <strong>Computer & Communication Engineering @ MIT Manipal</strong><br>
+  Tech enthusiast learning new technologies
 </p>
 
 ---
 
-# SYSTEM STATUS
+### 🛠️ Armory
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imperi0&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-</p>
-## Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,python" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,verilog,nodejs,express,react&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,linux,idea&theme=dark" />
 </p>
 
-### Tools & Environment
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,idea" />
+### 📊 Metrics
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=imperi0&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imperi0&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
-
----
-
-# METRICS & ARCHIVES
-
-### Activity Pulse
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=imperi0&theme=dracula)
-
-![GitHub Streak](https://streak-stats-five.vercel.app/?user=imperi0&theme=tokyonight)
-
-### Skill Distribution
-![Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=imperi0&layout=donut-vertical&theme=neon)
