@@ -9,14 +9,14 @@
 
 ---
 
-### 🛠️ Armory
+### Armory
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,verilog,nodejs,express,react&theme=dark" />
   <br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,linux,idea&theme=dark" />
 </p>
 
-### 📊 Metrics
+### Metrics
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=imperi0&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
